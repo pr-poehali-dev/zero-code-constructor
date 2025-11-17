@@ -33,19 +33,19 @@ const translations = {
       title: 'Модули для любого бизнеса',
       crm: 'CRM',
       crmDesc: 'Управление клиентами и сделками',
-      ecommerce: 'E-commerce',
+      ecommerce: 'Электронная коммерция',
       ecommerceDesc: 'Интернет-магазин под ключ',
       analytics: 'Аналитика',
       analyticsDesc: 'Дашборды и отчёты',
-      hr: 'HR',
+      hr: 'Кадры',
       hrDesc: 'Управление персоналом'
     },
     templates: {
       title: 'Готовые шаблоны',
       subtitle: 'Начните с проверенных решений',
-      landing: 'Лендинг',
-      dashboard: 'Дашборд',
-      marketplace: 'Маркетплейс'
+      landing: 'Посадочная страница',
+      dashboard: 'Панель управления',
+      marketplace: 'Торговая площадка'
     }
   },
   en: {
